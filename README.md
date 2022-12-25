@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil-022
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking for an Internship in data analyst
+- 💞️ I’m looking for an Internship in Data Analyst
 - 📫 How to reach me nikhilgoyal022@gmail.com
 
 <!---
